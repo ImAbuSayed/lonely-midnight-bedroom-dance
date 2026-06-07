@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lonely Midnight Bedroom Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
+| **Get License** | [Get License For Lonely Midnight Bedroom Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lock the heavy door and dim the light
+> We don't have nowhere to be tonight
+> Slide a little closer, feel the heat
+> Let the shadows tangle at our feet
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
