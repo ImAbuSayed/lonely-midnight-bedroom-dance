@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Lonely Midnight Bedroom Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
+| **Get License** | [Obtain a Music License for Lonely Midnight Bedroom Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-midnight-bedroom-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc6455f4bcce6e5900110379a4890e10e1995964f44a70c47cf97f15e64fe3fe` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
